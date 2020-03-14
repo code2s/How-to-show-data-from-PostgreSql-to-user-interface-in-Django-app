@@ -1,0 +1,1 @@
+# How-to-show-data-from-PostgreSql-to-user-interface-in-Django-app
